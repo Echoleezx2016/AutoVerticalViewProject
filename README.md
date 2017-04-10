@@ -10,10 +10,10 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
   Step 2. Add the dependency：
-  	dependencies {
-		compile 'com.github.User:Repo:Tag'
+  	
+dependencies {
+	        compile 'com.github.Echoleezx2016.AutoVerticalViewProject:app:v1.0'
 	}
-  use:
   xml
     <com.lzx.autoverticalviewproject.utils.AutoVerticalViewView
         android:id="@+id/tb"
