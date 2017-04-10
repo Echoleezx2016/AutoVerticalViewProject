@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AutoVerticalViewProject.iml" filepath="$PROJECT_DIR$/AutoVerticalViewProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoverticallibrary/autoverticallibrary.iml" filepath="$PROJECT_DIR$/autoverticallibrary/autoverticallibrary.iml" />
     </modules>
   </component>
 </project>
