@@ -12,7 +12,7 @@
   Step 2. Add the dependency：<br>
   	
 dependencies {<br>
-	        compile 'com.github.Echoleezx2016.AutoVerticalViewProject:app:v1.0'<br>
+	        compile 'com.github.Echoleezx2016:AutoVerticalViewProject:v1.2'<br>
 	}<br>
  ## xml<br>
     <com.lzx.autoverticalviewproject.utils.AutoVerticalViewView<br>
