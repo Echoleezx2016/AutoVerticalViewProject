@@ -4,8 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.lzx.autoverticalviewproject.bean.AutoVerticalViewDataData;
-import com.lzx.autoverticalviewproject.utils.AutoVerticalViewView;
+
+import com.lzx.autoverticallibrary.bean.AutoVerticalViewDataData;
+import com.lzx.autoverticallibrary.utils.AutoVerticalViewView;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -9,12 +9,13 @@
     android:paddingLeft="15dp"
     android:paddingRight="15dp">
 
-    <com.lzx.autoverticalviewproject.utils.AutoVerticalViewView
+    <com.lzx.autoverticallibrary.utils.AutoVerticalViewView
         android:id="@+id/tb"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
         android:gravity="center_vertical"/>
+
 
 
 

@@ -1,11 +1,11 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.lzx.autoverticallibrary"
+        //applicationId "com.lzx.autoverticallibrary"
         minSdkVersion 17
         targetSdkVersion 25
         versionCode 1
